@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Coursera File Zephyr
 
 You can use the [editor on GitHub](https://github.com/alex00z/zephyr/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
